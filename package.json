@@ -1,0 +1,34 @@
+{
+  "name": "'cordialclientele'",
+  "version": "1.0.0",
+  "description": "'This is Cordial Clientele Package.json handling the devdependencies and dependencies'",
+  "main": "'index.html'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactNodeEs2016/CordialClientele.git"
+  },
+  "author": "'Yogendra.Atluri'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReactNodeEs2016/CordialClientele/issues"
+  },
+  "homepage": "https://github.com/ReactNodeEs2016/CordialClientele#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.28.0",
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.3.3"
+  }
+}
